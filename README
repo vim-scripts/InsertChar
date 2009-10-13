@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2810
+
+Allows you to use <tab> <letter> to insert a single character (no need to press escape). You can also use 3<tab> <letter> to insert 3 characters.
+
+If you install vimscript #2136, then the '.' command will also repeat the last insert.
+
